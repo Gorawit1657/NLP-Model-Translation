@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project aims to tackle real-world NLP challenges using transformer-based models. The project aims to provide hands-on experience in building and deploying NLP systems, covering a range of topics including sentiment analysis, healthcare chatbots, and machine translation.
+In this project aims to tackle real-world NLP challenges using transformer-based models. The project aims to provide hands-on experience in building and deploying NLP systems.
 
 ## Topics
 
