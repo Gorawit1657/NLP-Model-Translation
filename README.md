@@ -1,15 +1,19 @@
-# Capstone Project
-
-This project focuses on solving a key problem using advanced data analysis and machine learning techniques. The goal of the project is to demonstrate expertise in real-world data handling, model building, and extracting valuable insights.
+# NLP Model Translation
 
 ## Project Overview
 
-The NLP-Model-Translation Project covers several critical steps involved in solving data-driven problems, including:
+In this project aims to tackle real-world NLP challenges using transformer-based models. The project aims to provide hands-on experience in building and deploying NLP systems, covering a range of topics including sentiment analysis, healthcare chatbots, and machine translation.
 
-- **Data Preprocessing**: Cleaning and preparing raw data for analysis.
-- **Exploratory Data Analysis (EDA)**: Understanding the underlying structure of the data using visualization and statistical techniques.
-- **Modeling and Prediction**: Building and tuning machine learning models to predict outcomes or classify data.
-- **Evaluation and Optimization**: Assessing the performance of models using key metrics and optimizing for better results.
+## Topics
+
+**ENG-THA/THA-ENG Machine Translation**
+
+**Objective:** Develop a machine translation system for [English to Thai] & [Thai to English]
+translation.
+
+**Dataset:** Sentence pairs in English and Thai languages from AI Research Thailand.
+
+**Description:** You will build a transformer model (e.g., Transformer, BART) to translate sentences between English and Thai languages. The model should accurately translate text from one language to another while preserving meaning and context.
 
 ## Key Achievements
 
