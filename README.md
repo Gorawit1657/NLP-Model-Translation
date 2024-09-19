@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project aims to tackle real-world NLP challenges using transformer-based models. The project aims to provide hands-on experience in building and deploying NLP systems.
+This project focuses on developing a machine learning-based translation system for converting text between English and Thai. It supports both translation directions—English to Thai and Thai to English. The model is optimized for translating basic sentences, though it faces challenges with more intricate phrases due to training limitations.
 
 ## Topics
 
@@ -15,21 +15,26 @@ translation.
 
 **Description:** You will build a transformer model (e.g., Transformer, BART) to translate sentences between English and Thai languages. The model should accurately translate text from one language to another while preserving meaning and context.
 
-## Key Achievements
+## Usage Instructions
 
-- **Comprehensive Data Analysis**: Conducted thorough exploratory analysis to identify patterns and relationships in the data.
-- **Feature Engineering**: Developed and selected important features that improved model accuracy.
-- **Model Building**: Implemented multiple machine learning algorithms (e.g., Linear Regression, Decision Trees, Random Forests) and compared their performance.
-- **Hyperparameter Tuning**: Improved model performance by fine-tuning hyperparameters using techniques such as grid search and cross-validation.
-- **Result Interpretation**: Provided insights and actionable recommendations based on model predictions.
+**- Input:** Provide a sentence in either English or Thai.
+
+**- Select Translation Direction:** Choose [1] for English to Thai or [2] for Thai to English.
+
+**- Output:** The model returns the translated text based on your selection. 
+
+## Model Training Details
+
+**- Training Sessions:** Conducted in four iterations, using checkpoints to incrementally improve the model without starting from scratch.
+
+**- Simplified Configuration:** Due to resource limitations, training was done with basic settings to showcase the translation capabilities while minimizing time and memory requirements.
 
 ## Features
 
-- **Data Visualization**: Includes detailed visualizations of data distributions, relationships, and trends.
-- **Model Comparison**: Evaluates and compares multiple machine learning models to identify the best-performing algorithm.
-- **Hyperparameter Optimization**: Uses techniques like grid search and random search to find the optimal parameters for each model.
-- **Result Reporting**: Clearly presents model performance metrics such as accuracy, precision, recall, and F1-score.
+**- Dual Translation Options:**
+    - [1] English to Thai (EN-TH)
+    - [2] Thai to English (TH-EN)
+    
+**- Basic Sentence Handling:** Translates straightforward sentences with relative ease.
 
-## Results
-The project showcases how to approach a data science problem from end to end, including data cleaning, feature engineering, model building, and optimization. The results highlight the predictive power of the models and provide meaningful insights based on the predictions.
-
+**- Custom Deep Learning Model:** Specifically designed for the English-Thai language pair, trained on a custom dataset.
