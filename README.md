@@ -4,7 +4,7 @@ This project focuses on solving a key problem using advanced data analysis and m
 
 ## Project Overview
 
-The Capstone Project covers several critical steps involved in solving data-driven problems, including:
+The NLP-Model-Translation Project covers several critical steps involved in solving data-driven problems, including:
 
 - **Data Preprocessing**: Cleaning and preparing raw data for analysis.
 - **Exploratory Data Analysis (EDA)**: Understanding the underlying structure of the data using visualization and statistical techniques.
